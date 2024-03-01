@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samet Polat.</h1>
+<h1 align="center">Hi 👋, I'm Polat.</h1>
 <h3 align="center">Front-End Developer | Biomedical Engineer</h3>
 
 - 🌱 I’m currently learning **React.js**
