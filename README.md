@@ -19,8 +19,3 @@
  
 <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametpolat7&show_icons=true&locale=en&layout=compact" alt="sametpolat7" /></span>
 
-<h3>Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Hoisting nedir?— let ve const ile var arasındaki fark](https://medium.com/@sametpolat7/hoisting-nedir-let-ve-const-ile-var-aras%C4%B1ndaki-fark-68be16b7b2c3?source=rss-a3452d22e8f4------2)
-<!-- BLOG-POST-LIST:END -->
-
