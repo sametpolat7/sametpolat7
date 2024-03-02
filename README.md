@@ -19,4 +19,7 @@
  
 <span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametpolat7&show_icons=true&locale=en&layout=compact" alt="sametpolat7" /></span>
 
+<h3>Blog Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
