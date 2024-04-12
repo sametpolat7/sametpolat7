@@ -1,10 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Polat.</h1>
 <h3 align="right">Front-End Developer | Biomedical Engineer</h3>
 
-- 🌱 I am currently focusing on becoming a **Back-end Developer**
+- 🌱 I am currently focusing on becoming a **Back-end Developer.**
 
-- 📫 If you'd like to reach me **<a href="https://www.linkedin.com/in/sametpolat17/" target="_blank"
-    >LinkedIn</a>**
+- 📫 If you'd like to reach me **samet.polat59@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
