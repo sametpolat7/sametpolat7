@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Polat</h1>
+<h1 align="center">Hey. I'm Polat</h1>
 
 - 💬 You can ask me **Ruby on Rails & React**
 - 📝 I regularly write articles on **https://sametpolat7.medium.com/**
@@ -64,22 +64,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
-    <a href="https://linkedin.com/in/sametpolat7" target="blank" >
+    <a href="https://linkedin.com/in/sametpolat7" target="__blank" >
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sametpolat17" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/users/23155342/sametpolat7" target="blank" >
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="users/23155342/sametpolat7" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/sametpolat7" target="blank" >
+    <a href="https://instagram.com/sametpolat7" target="__blank" >
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="sametpolat7" height="30" width="40" />
     </a>
-    <a href="https://sametpolat7.medium.com/" target="blank" >
+    <a href="https://sametpolat7.medium.com/" target="__blank" >
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@sametpolat7" height="30" width="40" />
