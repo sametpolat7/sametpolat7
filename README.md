@@ -1,8 +1,3 @@
-<h1 align="center">Hey. I'm Polat</h1>
-
-- 💬 You can ask me **Ruby on Rails & React**
-- 📝 I regularly write articles on **https://sametpolat7.medium.com/**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
