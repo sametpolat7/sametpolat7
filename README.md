@@ -1,5 +1,3 @@
----
-
 ### 🖥️ Backend
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
@@ -55,8 +53,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
-
----
 
 <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametpolat7&show_icons=true&locale=en&layout=compact" alt="sametpolat7" />
