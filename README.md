@@ -58,9 +58,6 @@
 
 ---
 
-### 📫 Let's Connect!  
-💼 [LinkedIn](https://linkedin.com/in/sametpolat7) | 📖 [Medium](https://sametpolat7.medium.com/) | 📷 [Instagram](https://instagram.com/sametpolat7)  
-
 <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sametpolat7&show_icons=true&locale=en&layout=compact" alt="sametpolat7" />
 </div>
